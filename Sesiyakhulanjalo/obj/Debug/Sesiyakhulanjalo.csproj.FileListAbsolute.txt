@@ -69,8 +69,8 @@ C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesi
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\bin\Newtonsoft.Json.xml
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\bin\Antlr3.Runtime.pdb
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.csprojAssemblyReference.cache
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.csproj.CoreCompileInputs.cache
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.csproj.CopyComplete
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.dll
 C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.pdb
+C:\Users\stanley\source\repos\StudentRepo\SesiyakhulaNjalo\Sesiyakhulanjalo\Sesiyakhulanjalo\obj\Debug\Sesiyakhulanjalo.csprojAssemblyReference.cache
